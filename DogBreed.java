@@ -13,4 +13,5 @@ public class DogBreed {
 
     public static String breed(int num) {
         (num == 1) ? "German Shephard" : "Other breeds";
+    {
 }
