@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class AirlineReservations619 {
+public class AirlineReservations {
     public static String outline = null;
     public static ArrayList<String> outlineList = new ArrayList<>();
     public static int count = 0;
